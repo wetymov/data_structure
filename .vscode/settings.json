@@ -6,6 +6,9 @@
     "array": "cpp",
     "vector": "cpp",
     "xstring": "cpp",
-    "xutility": "cpp"
+    "xutility": "cpp",
+    "iterator": "cpp",
+    "initializer_list": "cpp",
+    "type_traits": "cpp"
   }
 }
